@@ -1,0 +1,8 @@
+embeddings {
+  tensor_name: "bear_embeddings"
+  sprite {
+    image_path: "/media1/data/claire/BearBackgroundsAndBehavior/vis/sprite.jpg"
+    single_image_dim: 224
+    single_image_dim: 224
+  }
+}

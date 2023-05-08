@@ -1,0 +1,8 @@
+embeddings {
+  tensor_name: "bear_embeddings"
+  sprite {
+    image_path: "C:\Users\fricl\OneDrive\Documents\Suisse\EPFL\Cours\BA6\Internship\vis\"
+    single_image_dim: 224
+    single_image_dim: 224
+  }
+}
